@@ -1,4 +1,4 @@
-# <img src='gtk_gtasks/icon.png' width='20'> GTK Google Tasks: gtk-gtasks
+# <img src='gtk_gtasks/icon.png' width='40'> GTK Google Tasks: gtk-gtasks
 
 GTK Tasks is a python application which wraps the [Google Tasks Web Application](https://assistant.google.com/tasks).
 
